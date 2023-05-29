@@ -1,5 +1,5 @@
 
-import Header from './components/Header'
+
 import Content from './components/Content'
 import FormCar from "./components/FormCar";
 import Footer from "./components/Footer";
